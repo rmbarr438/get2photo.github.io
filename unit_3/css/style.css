@@ -7,6 +7,10 @@ body {
  hr {
  	width: 200px;
  }
+ ul {
+ 	text-align: center;
+ 	list-style-type: none;
+ }
  
   p {
  	font-size: 22px;
