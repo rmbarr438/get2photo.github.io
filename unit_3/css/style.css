@@ -1,5 +1,8 @@
 body {
 	text-align: center;
+	background: url(<img src="images/B&W2.jpg" alt="Buzz and Woody" title="This is some photo!">
+);
+	background-size: cover;
  color: #fff;
  font-family: Helvetica;
 }
