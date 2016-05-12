@@ -2,12 +2,9 @@ body {
 	text-align: center;
  color: #fff;
  font-family: Helvetica;
+}
  hr {
  	width: 200px;
- }
- ul {
- 	text-align: center;
- 	list-style-type: none;
  }
  
   p {
