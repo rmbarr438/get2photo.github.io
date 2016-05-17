@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Cambay:400,700italic);
+
+body {
+	text-align: center;
+	background: url(http://www.clubdesigner.com.tw/Files/store_Attach_7_20141224135319619.jpg);
+	background-size: cover;
+ color: #fff;
+ font-family: Helvetica;
+}
+ hr {
+ 	width: 200px;
+ }
+ 
+  p {
+ 	font-size: 22px;
+ } 
